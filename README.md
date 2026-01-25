@@ -143,17 +143,6 @@ Las contribuciones futuras serán bienvenidas conforme la comunidad crezca.
 
 ---
 
-## 📌 Alcance del repositorio
-
-Este repositorio:
-
-- ✔ Documenta nodos, gateways y payloads  
-- ✔ Tiene fines académicos y comunitarios  
-- ❌ No incluye despliegues comerciales  
-- ❌ No cubre infraestructura privada avanzada  
-- ❌ No incluye configuraciones propietarias  
-
----
 
 ## 📄 Licencia
 
