@@ -8,19 +8,19 @@ Este documento detalla los resultados de las primeras pruebas de campo realizada
 
 Las mediciones se llevaron a cabo en el **Campus Balzay de la Universidad de Cuenca**, un entorno caracterizado por edificaciones académicas de baja altura, vegetación moderada y espacios abiertos.
 
-El Gateway se ubicó en una posición fija en el interior (Indoor) ubicado en la zona de la Casa Patrimonial, mientras el nodo móvil se desplazaba alejándose del punto de origen.
+El Gateway se ubicó en una posición fija en el interior (Indoor) ubicado en la zona de la Casa Patrimonial, mientras el nodo móvil se desplazaba alejándose del punto de origen. El punto de origen se ubica en las coordenadas: `[-2.891763, -79.036390]`
 
 ### Puntos de Medición
 Para garantizar la reproducibilidad de este estudio, se documentan las ubicaciones exactas de cada punto de prueba:
 
 | Punto | Distancia | Coordenadas (Google Maps) | Descripción del Entorno |
 |:---:|:---:|:---|:---|
-| **P1** | 25 m | `[Insertar Coordenada, ej: -2.8xxx, -79.0xxx]` | Línea de vista directa (LOS). |
-| **P2** | 75 m | `[Insertar Coordenada]` | Espacio abierto dentro del campus. |
-| **P3** | 150 m | `[Insertar Coordenada]` | Primeros obstáculos visuales leves. |
-| **P4** | 275 m | `[Insertar Coordenada]` | Límite de zona de edificios. |
-| **P5** | 300 m | `[Insertar Coordenada]` | Zona con obstrucción de estructuras. |
-| **P6** | 650 m | `[Insertar Coordenada]` | Exterior del campus (NLOS - Sin línea de vista). |
+| **P1** | 25 m | `[-2.891652, -79.036621]` | Línea de vista directa (LOS). |
+| **P2** | 75 m | `[-2.891494, -79.037024]` | Espacio abierto dentro del campus. |
+| **P3** | 150 m | `[-2.891325, -79.037728]` | Primeros obstáculos visuales leves. |
+| **P4** | 275 m | `[-2.891009, -79.038796]` | Límite de zona de edificios. |
+| **P5** | 300 m | `[-2.892106, -79.039219]` | Zona con obstrucción de estructuras. |
+| **P6** | 650 m | `[-2.889524, -79.041942]` | Exterior del campus (NLOS - Sin línea de vista). |
 
 > *Se recomienda visualizar estos puntos en Google Earth para analizar la elevación y los obstáculos físicos entre el punto P(x) y el Gateway.*
 
@@ -107,5 +107,6 @@ Basado en esta primera caracterización para **TECHHUB Cuenca**:
 3.  **Validación de Hardware:** Los equipos Heltec mostraron un rendimiento consistente, capaz de recuperar información con niveles de señal de hasta **-120 dBm**.
 
 ---
+
 
 
