@@ -8,7 +8,7 @@ Este documento detalla los resultados de las primeras pruebas de campo realizada
 
 Las mediciones se llevaron a cabo en el **Campus Balzay de la Universidad de Cuenca**, un entorno caracterizado por edificaciones académicas de baja altura, vegetación moderada y espacios abiertos.
 
-El Gateway se ubicó en una posición fija en el interior (Indoor) de uno de los laboratorios, mientras el nodo móvil se desplazaba alejándose del punto de origen.
+El Gateway se ubicó en una posición fija en el interior (Indoor) ubicado en la zona de la Casa Patrimonial, mientras el nodo móvil se desplazaba alejándose del punto de origen.
 
 ### Puntos de Medición
 Para garantizar la reproducibilidad de este estudio, se documentan las ubicaciones exactas de cada punto de prueba:
@@ -107,4 +107,5 @@ Basado en esta primera caracterización para **TECHHUB Cuenca**:
 3.  **Validación de Hardware:** Los equipos Heltec mostraron un rendimiento consistente, capaz de recuperar información con niveles de señal de hasta **-120 dBm**.
 
 ---
+
 
