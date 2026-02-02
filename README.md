@@ -115,7 +115,7 @@ Con esta arquitectura, el proyecto establece una base técnica funcional sobre l
 Estos enlaces se dejarán activos una vez la comunidad esté publicada oficialmente.
 
 - 🌍 **Sitio web oficial**:  
-  `https://[por-definir]`
+  `https://techhubcuenca.tjdariox.com`
 
 - 💻 **Repositorio GitHub**:  
   Este repositorio
@@ -124,7 +124,7 @@ Estos enlaces se dejarán activos una vez la comunidad esté publicada oficialme
   `https://www.thethingsnetwork.org/community/[por-definir]`
 
 - 💬 **Canales de la comunidad**:
-  - Discord: `[por-definir]`
+  - Discord: `https://discord.gg/jvPnEqEu`
   - Correo de contacto: `[por-definir]`
 
 ---
